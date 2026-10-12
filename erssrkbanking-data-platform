@@ -1,0 +1,59 @@
+[33mcommit 540244142542200aba08402c022589ad92835889[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Mon Oct 12 22:13:14 2026 +0400
+
+    move notebook to notebooks and normalizing README
+
+[33mcommit 38d1db7b6b7e3b448566e0c1f1dc33a7f577c53a[m
+Author: Shreeraksha Krishna <165827506+srk2695@users.noreply.github.com>
+Date:   Mon Oct 12 15:16:45 2026 +0400
+
+    Created using Colab
+
+[33mcommit 939b925d347a3178477a9b4a901b81742f0dafd2[m
+Author: shreeraksha <ksshreeraksha@gmail.com>
+Date:   Mon Oct 12 10:11:40 2026 +0400
+
+    adding README drawing code, schema files
+
+[33mcommit efb05627f680dac35e9e71728631cb6ea5917dc7[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 17:37:43 2026 +0400
+
+    Clean up sql folder; add quality checks and gold layer
+
+[33mcommit 42761037f7bcd1a35b375e6ca83c17e0355d16d0[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 17:21:02 2026 +0400
+
+    commit after Gold layer Sql Queries files
+
+[33mcommit 6fd26637c5721c12124ae5a3908f8db00ef7cf84[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 14:30:16 2026 +0400
+
+    adding Silver layer SQL query files
+
+[33mcommit ae7b2b82d168ae18dc472adf7ad7c212a916415a[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 14:22:07 2026 +0400
+
+    adding silver layer SQL
+
+[33mcommit ecc678765734429367faae74747661a3f8b56780[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 01:45:37 2026 +0400
+
+    adding bronze data quality check queries
+
+[33mcommit 24f9516cd74d361230841a7301a63ee181bbfb8d[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Sun Oct 11 00:36:52 2026 +0400
+
+    commit 2- after data generating
+
+[33mcommit a02cba68223350b7749a5b2a45a44a527a313351[m
+Author: Shreeraksha <ksshreeraksha@gmail.com>
+Date:   Fri Oct 9 23:58:45 2026 +0400
+
+    initial commit with project structure
